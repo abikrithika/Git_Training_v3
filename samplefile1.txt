@@ -1,3 +1,4 @@
 This is sample file 1
 
 Adding one more text here to test.
+Test Git Stash in file1
